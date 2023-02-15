@@ -1,0 +1,8 @@
+#seccionMenu {
+    display: flex;
+    flex-direction:row
+}
+
+table, th, td {
+    border:1px solid black;
+  }

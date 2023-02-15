@@ -1,0 +1,108 @@
+[
+	{
+		"id": 2,
+		"title": "Notebook Lenovo ThinkPad X1 Carbon",
+		"description": "El Lenovo ThinkPad X1 Carbon es un portátil de 14 pulgadas con procesador Intel Core i7, 16 GB de RAM y 512 GB de almacenamiento SSD.",
+		"code": "20KH006KMX",
+		"price": 89999,
+		"status": true,
+		"category": "Computación",
+		"thumbnails": []
+	},
+	{
+		"id": 3,
+		"title": "Consola de videojuegos PlayStation 5",
+		"description": "La PlayStation 5 es alta consola de videojuegos de Sony con procesador AMD Zen 2, gráficos RDNA 2 y unidades de almacenamiento SSD.",
+		"code": "1911C002",
+		"price": 20000,
+		"status": true,
+		"category": "Videojuegos",
+		"thumbnails": []
+	},
+	{
+		"id": 4,
+		"title": "Televisión Sony Bravia XR-55A8H",
+		"description": "La Sony Bravia XR-55A8H es una televisión OLED de 55 pulgadas con resolución 4K, tecnología XR y sonido Dolby Atmos.",
+		"code": "XR-55A8H",
+		"price": 84999,
+		"status": true,
+		"category": "Electrónica",
+		"thumbnails": []
+	},
+	{
+		"id": 5,
+		"title": "Consola de videojuegos PlayStation 5",
+		"description": "La PlayStation 5 es una consola de videojuegos de Sony con procesador AMD Zen 2, gráficos RDNA 2 y unidades de almacenamiento SSD.",
+		"code": "CECH-2100A",
+		"price": 19999,
+		"status": true,
+		"category": "Videojuegos",
+		"thumbnails": []
+	},
+	{
+		"id": 6,
+		"title": "Mouse Logitech",
+		"description": "Mouse inhalambrico",
+		"code": "LGTCH-82A",
+		"price": 500,
+		"status": true,
+		"category": "Videojuegos",
+		"thumbnails": []
+	},
+	{
+		"id": 7,
+		"title": "Cable VGA",
+		"description": "Cable para conexion VGA 1mts",
+		"code": "CBL-32B",
+		"price": 24,
+		"status": true,
+		"category": "Cables",
+		"thumbnails": []
+	},
+	{
+		"id": 8,
+		"title": "Auriculares Xiaomi",
+		"description": "Auriculares inhalambricos marca Xiaomi",
+		"code": "XMI-2019",
+		"price": 19,
+		"status": true,
+		"category": "Accesorios",
+		"thumbnails": []
+	},
+	{
+		"id": 9,
+		"title": "Mouse Pad Logitech L",
+		"description": "Alfombra para mouse marca Logitech",
+		"code": "LGH-281G",
+		"price": "76",
+		"status": "true",
+		"category": "Accesorios"
+	},
+	{
+		"id": 10,
+		"title": "Pack DVD x25",
+		"description": "Pack de 25 DVD marca ADATA",
+		"code": "DVD-X25",
+		"price": "15",
+		"status": "true",
+		"category": "Almacenamiento"
+	},
+	{
+		"id": 11,
+		"title": "Cable USB C",
+		"description": "Cable USB 40 CM",
+		"code": "UBS-C201",
+		"price": "6",
+		"status": "true",
+		"category": "Cables"
+	},
+	{
+		"id": 11,
+		"title": "Cable Sata",
+		"description": "Cable de conexion sata",
+		"code": "CBL-ST01",
+		"price": "10",
+		"status": "true",
+		"category": "Cables"
+	}
+]

@@ -1,0 +1,22 @@
+<h1>Lista de productos Realtime</h1>
+
+<form id="form" action="">
+    <label for="title">Nombre del producto</label>
+    <input type="text" name="title" id="title" required>
+    <label for="description">Descripcion</label>
+    <input type="text" name="description" id="description" required>
+    <label for="code">Codigo</label>
+    <input type="text" name="code" id="code" required>
+    <label for="price">Precio</label>
+    <input type="number" name="price" id="price" required>
+    <label for="status">Status</label>
+    <input type="text" name="status" id="status" value="true" readonly>
+    <label for="category">Categoria</label>
+    <input type="text" name="category" id="category" required>
+    <button id="submit" type="submit">Enviar</button>
+</form>
+
+<table id="table">
+</table>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/index.js"></script>
